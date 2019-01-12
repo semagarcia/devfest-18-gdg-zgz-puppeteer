@@ -1,4 +1,4 @@
-# Commit Conf 2018 - Adding software quality with Puppeteer
+# DevFest - GDG Zaragoza - Adding software quality with Puppeteer
 
 ## Introduction
 Within this repo are hosted the examples used in my about Puppeteer and its use for giving quality to web applications beyond the unit testing. This talk aims to show different approaches to complement other traditional quality assurance techniques.
